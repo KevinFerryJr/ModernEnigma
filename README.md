@@ -4,7 +4,7 @@ A modular "Enigma Machine" emulator that models the rotors, reflectors, rotor cr
 # Installation
 
 ```
-pipx install ModernEnigma
+pip install ModernEnigma
 ```
 
 # CLI Usage
